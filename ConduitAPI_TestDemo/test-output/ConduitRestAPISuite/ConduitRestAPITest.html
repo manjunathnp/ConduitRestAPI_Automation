@@ -1,0 +1,164 @@
+<html>
+<head>
+<title>TestNG:  ConduitRestAPITest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>ConduitRestAPITest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>17/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Jan 06 15:47:24 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>5 seconds (5814 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_004_CreatePost.createPost_checkResponseTitle()'><b>createPost_checkResponseTitle</b><br>Test class: com.ConduitAPI.tests.TC_004_CreatePost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_004_CreatePost@478190fc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_002_Login.LoginUser_checkResponseTime()'><b>LoginUser_checkResponseTime</b><br>Test class: com.ConduitAPI.tests.TC_002_Login</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_002_Login@52bf72b5</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_005_GetPost.getPost_checkStatusCode()'><b>getPost_checkStatusCode</b><br>Test class: com.ConduitAPI.tests.TC_005_GetPost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_005_GetPost@79e2c065</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_001_CreateUser.createUser_checkResponseTime()'><b>createUser_checkResponseTime</b><br>Test class: com.ConduitAPI.tests.TC_001_CreateUser</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_001_CreateUser@9f116cc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_004_CreatePost.createPost_checkStatusCode()'><b>createPost_checkStatusCode</b><br>Test class: com.ConduitAPI.tests.TC_004_CreatePost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_004_CreatePost@478190fc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_001_CreateUser.createUser_checkResponseUsername()'><b>createUser_checkResponseUsername</b><br>Test class: com.ConduitAPI.tests.TC_001_CreateUser</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_001_CreateUser@9f116cc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_004_CreatePost.createPost_checkResponseBody()'><b>createPost_checkResponseBody</b><br>Test class: com.ConduitAPI.tests.TC_004_CreatePost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_004_CreatePost@478190fc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_002_Login.LoginUser_checkStatusCode()'><b>LoginUser_checkStatusCode</b><br>Test class: com.ConduitAPI.tests.TC_002_Login</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_002_Login@52bf72b5</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_002_Login.LoginUser_checkResponseEmail()'><b>LoginUser_checkResponseEmail</b><br>Test class: com.ConduitAPI.tests.TC_002_Login</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_002_Login@52bf72b5</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_004_CreatePost.createPost_checkResponseDescription()'><b>createPost_checkResponseDescription</b><br>Test class: com.ConduitAPI.tests.TC_004_CreatePost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_004_CreatePost@478190fc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_002_Login.LoginUser_checkResponseUsername()'><b>LoginUser_checkResponseUsername</b><br>Test class: com.ConduitAPI.tests.TC_002_Login</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_002_Login@52bf72b5</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_005_GetPost.getPost_checkResponseTime()'><b>getPost_checkResponseTime</b><br>Test class: com.ConduitAPI.tests.TC_005_GetPost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_005_GetPost@79e2c065</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_001_CreateUser.createUser_checkStatusCode()'><b>createUser_checkStatusCode</b><br>Test class: com.ConduitAPI.tests.TC_001_CreateUser</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_001_CreateUser@9f116cc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_001_CreateUser.createUser_checkResponseEmail()'><b>createUser_checkResponseEmail</b><br>Test class: com.ConduitAPI.tests.TC_001_CreateUser</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_001_CreateUser@9f116cc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_003_GetUser.getUser_checkStatusCode()'><b>getUser_checkStatusCode</b><br>Test class: com.ConduitAPI.tests.TC_003_GetUser</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_003_GetUser@38c6f217</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_004_CreatePost.createPost_checkResponseTime()'><b>createPost_checkResponseTime</b><br>Test class: com.ConduitAPI.tests.TC_004_CreatePost</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_004_CreatePost@478190fc</td></tr>
+<tr>
+<td title='com.ConduitAPI.tests.TC_003_GetUser.getUser_checkResponseTime()'><b>getUser_checkResponseTime</b><br>Test class: com.ConduitAPI.tests.TC_003_GetUser</td>
+<td></td>
+<td>0</td>
+<td>com.ConduitAPI.tests.TC_003_GetUser@38c6f217</td></tr>
+</table><p>
+</body>
+</html>

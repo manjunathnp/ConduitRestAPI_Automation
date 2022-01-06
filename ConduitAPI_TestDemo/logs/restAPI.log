@@ -1,0 +1,871 @@
+2022-01-03 15:09:38 INFO  LibraryRestAPI:26 - ********* Started TC_001_CreateUser **********
+2022-01-03 15:09:41 INFO  LibraryRestAPI:53 - ********* Status_Code_Validation **********
+2022-01-03 15:09:41 INFO  LibraryRestAPI:55 - Status_Code422
+2022-01-03 15:09:41 INFO  LibraryRestAPI:62 - *********  Finished TC_001_CreateUser **********
+2022-01-03 15:10:12 INFO  LibraryRestAPI:26 - ********* Started TC_001_CreateUser **********
+2022-01-03 15:10:15 INFO  LibraryRestAPI:53 - ********* Status_Code_Validation **********
+2022-01-03 15:10:15 INFO  LibraryRestAPI:55 - Status_Code422
+2022-01-03 15:10:15 INFO  LibraryRestAPI:62 - *********  Finished TC_001_CreateUser **********
+2022-01-03 15:10:55 INFO  LibraryRestAPI:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:10:59 INFO  LibraryRestAPI:40 - ********* Status_Code_Validation **********
+2022-01-03 15:10:59 INFO  LibraryRestAPI:42 - Status_Code200
+2022-01-03 15:10:59 INFO  LibraryRestAPI:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 15:11:33 INFO  LibraryRestAPI:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:11:36 INFO  LibraryRestAPI:40 - ********* Status_Code_Validation **********
+2022-01-03 15:11:36 INFO  LibraryRestAPI:42 - Status_Code200
+2022-01-03 15:11:37 INFO  LibraryRestAPI:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 15:12:30 INFO  LibraryRestAPI:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:12:33 INFO  LibraryRestAPI:40 - ********* Status_Code_Validation **********
+2022-01-03 15:12:33 INFO  LibraryRestAPI:42 - Status_Code200
+2022-01-03 15:12:33 INFO  LibraryRestAPI:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 15:14:57 INFO  LibraryRestAPI:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:15:00 INFO  LibraryRestAPI:40 - ********* Status_Code_Validation **********
+2022-01-03 15:15:00 INFO  LibraryRestAPI:42 - Status_Code200
+2022-01-03 15:15:00 INFO  LibraryRestAPI:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 15:16:02 INFO  LibraryRestAPI:26 - ********* Started TC_001_CreateUser **********
+2022-01-03 15:16:05 INFO  LibraryRestAPI:53 - ********* Status_Code_Validation **********
+2022-01-03 15:16:05 INFO  LibraryRestAPI:55 - Status_Code422
+2022-01-03 15:16:05 INFO  LibraryRestAPI:62 - *********  Finished TC_001_CreateUser **********
+2022-01-03 15:27:10 INFO  LibraryRestAPI:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:27:14 INFO  LibraryRestAPI:40 - ********* Status_Code_Validation **********
+2022-01-03 15:27:14 INFO  LibraryRestAPI:42 - Status_Code404
+2022-01-03 15:27:14 INFO  LibraryRestAPI:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 15:27:28 INFO  LibraryRestAPI:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:27:32 INFO  LibraryRestAPI:40 - ********* Status_Code_Validation **********
+2022-01-03 15:27:32 INFO  LibraryRestAPI:42 - Status_Code200
+2022-01-03 15:27:32 INFO  LibraryRestAPI:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 15:29:04 INFO  ConduitAPITesting:29 - ********* Started TC_002_GetUser **********
+2022-01-03 15:29:08 INFO  ConduitAPITesting:40 - ********* Status_Code_Validation **********
+2022-01-03 15:29:08 INFO  ConduitAPITesting:42 - Status_Code200
+2022-01-03 15:29:08 INFO  ConduitAPITesting:49 - *********  Finished TC_001_GetUser **********
+2022-01-03 16:04:12 INFO  ConduitAPITesting:26 - ********* Started TC_002_GetUser **********
+2022-01-03 16:04:16 INFO  ConduitAPITesting:37 - ********* Status_Code_Validation **********
+2022-01-03 16:04:16 INFO  ConduitAPITesting:39 - Status_Code200
+2022-01-03 16:04:16 INFO  ConduitAPITesting:46 - *********  Finished TC_002_GetUser **********
+2022-01-03 17:29:21 INFO  ConduitAPITesting:26 - ********* Started TC_002_GetUser **********
+2022-01-03 17:29:25 INFO  ConduitAPITesting:37 - ********* Status_Code_Validation **********
+2022-01-03 17:29:25 INFO  ConduitAPITesting:39 - Status_Code200
+2022-01-03 17:29:25 INFO  ConduitAPITesting:46 - *********  Finished TC_002_GetUser **********
+2022-01-03 17:53:40 INFO  ConduitAPITesting:59 - ********* Started TC_001_CreateUser **********
+2022-01-03 17:53:42 INFO  ConduitAPITesting:90 - ********* Status_Code_Validation **********
+2022-01-03 17:53:42 INFO  ConduitAPITesting:92 - Status_Code200
+2022-01-03 17:53:42 INFO  ConduitAPITesting:99 - *********  Finished TC_001_CreateUser **********
+2022-01-03 17:54:54 INFO  ConduitAPITesting:26 - ********* Started TC_001_CreateUser **********
+2022-01-03 17:54:57 INFO  ConduitAPITesting:57 - ********* Status_Code_Validation **********
+2022-01-03 17:54:57 INFO  ConduitAPITesting:59 - Status_Code422
+2022-01-03 17:54:57 INFO  ConduitAPITesting:66 - *********  Finished TC_001_CreateUser **********
+2022-01-03 17:55:14 INFO  ConduitAPITesting:26 - ********* Started TC_001_CreateUser **********
+2022-01-03 17:55:16 INFO  ConduitAPITesting:57 - ********* Status_Code_Validation **********
+2022-01-03 17:55:16 INFO  ConduitAPITesting:59 - Status_Code200
+2022-01-03 17:55:16 INFO  ConduitAPITesting:66 - *********  Finished TC_001_CreateUser **********
+2022-01-03 18:08:36 INFO  ConduitAPITesting:26 - ********* Started TC_003_Login **********
+2022-01-03 18:08:39 INFO  ConduitAPITesting:61 - ********* Status_Code_Validation **********
+2022-01-03 18:08:39 INFO  ConduitAPITesting:63 - Status_Code200
+2022-01-03 18:08:39 INFO  ConduitAPITesting:70 - *********  Finished TC_001_CreateUser **********
+2022-01-03 18:08:59 INFO  ConduitAPITesting:26 - ********* Started TC_003_Login **********
+2022-01-03 18:09:02 INFO  ConduitAPITesting:61 - ********* Status_Code_Validation **********
+2022-01-03 18:09:02 INFO  ConduitAPITesting:63 - Status_Code200
+2022-01-03 18:09:02 INFO  ConduitAPITesting:70 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:21:41 INFO  ConduitAPITesting:26 - ********* Started TC_003_Login **********
+2022-01-03 20:21:48 INFO  ConduitAPITesting:61 - ********* Status_Code_Validation **********
+2022-01-03 20:21:48 INFO  ConduitAPITesting:63 - Status_Code200
+2022-01-03 20:21:48 INFO  ConduitAPITesting:70 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:23:35 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:23:39 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:23:39 INFO  ConduitAPITesting:64 - Status_Code200
+2022-01-03 20:23:39 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:29:12 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:29:15 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:29:15 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:29:15 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:29:15 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:29:16 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:29:16 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:29:16 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:30:01 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:30:05 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:30:05 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:30:05 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:30:05 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:30:05 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:30:05 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:30:05 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:30:57 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:31:01 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:31:01 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:31:01 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:31:01 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:31:01 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:31:01 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:31:01 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:32:44 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:32:48 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:32:48 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:32:48 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:32:48 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:32:48 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:32:48 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:32:48 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:32:48 INFO  ConduitAPITesting:27 - ********* Started TC_002_GetUser **********
+2022-01-03 20:32:49 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-03 20:32:49 INFO  ConduitAPITesting:40 - Status_Code404
+2022-01-03 20:32:49 INFO  ConduitAPITesting:47 - *********  Finished TC_002_GetUser **********
+2022-01-03 20:33:57 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:34:01 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:34:01 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:34:01 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:34:01 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:34:01 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:34:02 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:34:02 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:34:30 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:34:33 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:34:33 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:34:33 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:34:33 INFO  ConduitAPITesting:27 - ********* Started TC_002_GetUser **********
+2022-01-03 20:34:34 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-03 20:34:34 INFO  ConduitAPITesting:40 - Status_Code404
+2022-01-03 20:34:34 INFO  ConduitAPITesting:47 - *********  Finished TC_002_GetUser **********
+2022-01-03 20:34:34 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:34:35 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:34:35 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:34:35 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:38:03 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:38:07 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:38:07 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:38:07 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:38:07 INFO  ConduitAPITesting:27 - ********* Started TC_003_Login **********
+2022-01-03 20:38:07 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:38:07 INFO  ConduitAPITesting:64 - Status_Code: 200
+2022-01-03 20:38:07 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:38:07 INFO  ConduitAPITesting:28 - ********* Started TC_002_GetUser **********
+2022-01-03 20:38:08 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-03 20:38:08 INFO  ConduitAPITesting:41 - Status_Code404
+2022-01-03 20:38:08 INFO  ConduitAPITesting:48 - *********  Finished TC_002_GetUser **********
+2022-01-03 20:43:56 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:43:59 INFO  ConduitAPITesting:58 - ********* Status_Code_Validation **********
+2022-01-03 20:43:59 INFO  ConduitAPITesting:60 - Status_Code: 200
+2022-01-03 20:43:59 INFO  ConduitAPITesting:67 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:43:59 INFO  ConduitAPITesting:27 - ********* Started TC_002_Login **********
+2022-01-03 20:44:00 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-03 20:44:00 INFO  ConduitAPITesting:64 - Status_Code: 403
+2022-01-03 20:44:00 INFO  ConduitAPITesting:71 - *********  Finished TC_002_LoginUser **********
+2022-01-03 20:44:00 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-03 20:44:01 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-03 20:44:01 INFO  ConduitAPITesting:41 - Status_Code404
+2022-01-03 20:44:01 INFO  ConduitAPITesting:48 - *********  Finished TC_003_GetUser **********
+2022-01-03 20:48:28 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:48:31 INFO  ConduitAPITesting:61 - ********* Status_Code_Validation **********
+2022-01-03 20:48:31 INFO  ConduitAPITesting:63 - Status_Code: 200
+2022-01-03 20:48:31 INFO  ConduitAPITesting:70 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:48:31 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 20:48:32 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-03 20:48:32 INFO  ConduitAPITesting:67 - Status_Code: 403
+2022-01-03 20:48:32 INFO  ConduitAPITesting:74 - *********  Finished TC_002_LoginUser **********
+2022-01-03 20:53:30 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:53:33 INFO  ConduitAPITesting:61 - ********* Status_Code_Validation **********
+2022-01-03 20:53:33 INFO  ConduitAPITesting:63 - Status_Code: 200
+2022-01-03 20:53:33 INFO  ConduitAPITesting:70 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:53:33 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 20:53:34 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-03 20:53:34 INFO  ConduitAPITesting:67 - Status_Code: 403
+2022-01-03 20:53:34 INFO  ConduitAPITesting:74 - *********  Finished TC_002_LoginUser **********
+2022-01-03 20:55:36 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:55:40 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-03 20:55:40 INFO  ConduitAPITesting:67 - Status_Code: 200
+2022-01-03 20:55:40 INFO  ConduitAPITesting:74 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:55:40 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 20:55:40 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-03 20:55:40 INFO  ConduitAPITesting:71 - Status_Code: 403
+2022-01-03 20:55:40 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-03 20:57:53 INFO  ConduitAPITesting:29 - ********* Started TC_001_CreateUser **********
+2022-01-03 20:57:57 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-03 20:57:57 INFO  ConduitAPITesting:66 - Status_Code: 200
+2022-01-03 20:57:57 INFO  ConduitAPITesting:73 - *********  Finished TC_001_CreateUser **********
+2022-01-03 20:57:57 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 20:57:57 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-03 20:57:57 INFO  ConduitAPITesting:71 - Status_Code: 403
+2022-01-03 20:57:57 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-03 21:00:10 INFO  ConduitAPITesting:29 - ********* Started TC_001_CreateUser **********
+2022-01-03 21:00:14 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-03 21:00:14 INFO  ConduitAPITesting:66 - Status_Code: 200
+2022-01-03 21:00:14 INFO  ConduitAPITesting:73 - *********  Finished TC_001_CreateUser **********
+2022-01-03 21:00:14 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 21:00:14 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-03 21:00:14 INFO  ConduitAPITesting:71 - Status_Code: 403
+2022-01-03 21:00:14 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-03 21:02:39 INFO  ConduitAPITesting:29 - ********* Started TC_001_CreateUser **********
+2022-01-03 21:02:43 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-03 21:02:43 INFO  ConduitAPITesting:66 - Status_Code: 200
+2022-01-03 21:02:43 INFO  ConduitAPITesting:73 - *********  Finished TC_001_CreateUser **********
+2022-01-03 21:02:43 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 21:02:43 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-03 21:02:43 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-03 21:02:44 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-03 21:03:35 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-03 21:03:38 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-03 21:03:38 INFO  ConduitAPITesting:67 - Status_Code: 200
+2022-01-03 21:03:38 INFO  ConduitAPITesting:74 - *********  Finished TC_001_CreateUser **********
+2022-01-03 21:03:38 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 21:03:39 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-03 21:03:39 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-03 21:03:39 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-03 21:05:18 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-03 21:05:21 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-03 21:05:21 INFO  ConduitAPITesting:67 - Status_Code: 200
+2022-01-03 21:05:21 INFO  ConduitAPITesting:74 - *********  Finished TC_001_CreateUser **********
+2022-01-03 21:05:21 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-03 21:05:22 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-03 21:05:22 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-03 21:05:22 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-03 21:05:22 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-03 21:05:23 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-03 21:05:23 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-03 21:05:23 INFO  ConduitAPITesting:48 - *********  Finished TC_003_GetUser **********
+2022-01-04 10:19:41 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:19:45 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 10:19:45 INFO  ConduitAPITesting:68 - Status_Code: 200
+2022-01-04 10:19:45 INFO  ConduitAPITesting:75 - *********  Finished TC_001_CreateUser **********
+2022-01-04 10:21:18 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:21:23 INFO  ConduitAPITesting:73 - ********* Status_Code_Validation **********
+2022-01-04 10:21:23 INFO  ConduitAPITesting:75 - Status_Code: 200
+2022-01-04 10:21:23 INFO  ConduitAPITesting:82 - *********  Finished TC_001_CreateUser **********
+2022-01-04 10:26:04 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:26:07 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 10:26:07 INFO  ConduitAPITesting:69 - Status_Code: 200
+2022-01-04 10:26:07 INFO  ConduitAPITesting:76 - *********  Finished TC_001_CreateUser **********
+2022-01-04 10:27:22 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:27:26 INFO  ConduitAPITesting:72 - ********* Status_Code_Validation **********
+2022-01-04 10:27:26 INFO  ConduitAPITesting:74 - Status_Code: 200
+2022-01-04 10:27:26 INFO  ConduitAPITesting:81 - *********  Finished TC_001_CreateUser **********
+2022-01-04 10:54:05 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:54:09 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 10:54:09 INFO  ConduitAPITesting:76 - Status_Code: 200
+2022-01-04 10:54:09 INFO  ConduitAPITesting:83 - *********  Finished TC_001_CreateUser **********
+2022-01-04 10:57:16 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:57:19 INFO  ConduitAPITesting:80 - ********* Status_Code_Validation **********
+2022-01-04 10:57:19 INFO  ConduitAPITesting:82 - Status_Code: 200
+2022-01-04 10:57:19 INFO  ConduitAPITesting:89 - *********  Finished TC_001_CreateUser **********
+2022-01-04 10:59:49 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 10:59:52 INFO  ConduitAPITesting:81 - ********* Status_Code_Validation **********
+2022-01-04 10:59:52 INFO  ConduitAPITesting:83 - Status_Code: 200
+2022-01-04 10:59:52 INFO  ConduitAPITesting:90 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:00:09 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:00:12 INFO  ConduitAPITesting:81 - ********* Status_Code_Validation **********
+2022-01-04 11:00:12 INFO  ConduitAPITesting:83 - Status_Code: 200
+2022-01-04 11:00:12 INFO  ConduitAPITesting:90 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:01:03 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:01:04 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:02:48 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:02:51 INFO  ConduitAPITesting:80 - ********* Status_Code_Validation **********
+2022-01-04 11:02:51 INFO  ConduitAPITesting:82 - Status_Code: 200
+2022-01-04 11:02:51 INFO  ConduitAPITesting:89 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:02:57 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:03:45 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:03:48 INFO  ConduitAPITesting:80 - ********* Status_Code_Validation **********
+2022-01-04 11:03:48 INFO  ConduitAPITesting:82 - Status_Code: 200
+2022-01-04 11:03:48 INFO  ConduitAPITesting:89 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:05:46 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:05:50 INFO  ConduitAPITesting:86 - ********* Status_Code_Validation **********
+2022-01-04 11:05:50 INFO  ConduitAPITesting:88 - Status_Code: 200
+2022-01-04 11:05:50 INFO  ConduitAPITesting:95 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:07:20 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:09:00 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:10:32 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:16:05 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:18:07 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:21:13 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:23:35 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:25:08 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:26:49 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:26:52 INFO  ConduitAPITesting:86 - ********* Status_Code_Validation **********
+2022-01-04 11:26:52 INFO  ConduitAPITesting:88 - Status_Code: 200
+2022-01-04 11:26:52 INFO  ConduitAPITesting:95 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:28:37 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:31:33 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:31:36 INFO  ConduitAPITesting:71 - ********* Status_Code_Validation **********
+2022-01-04 11:31:36 INFO  ConduitAPITesting:73 - Status_Code500
+2022-01-04 11:31:36 INFO  ConduitAPITesting:80 - *********  Finished TC_004_CreatePost **********
+2022-01-04 11:32:22 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:32:25 INFO  ConduitAPITesting:63 - ********* Status_Code_Validation **********
+2022-01-04 11:32:25 INFO  ConduitAPITesting:65 - Status_Code500
+2022-01-04 11:32:25 INFO  ConduitAPITesting:72 - *********  Finished TC_004_CreatePost **********
+2022-01-04 11:33:37 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:33:39 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 11:33:39 INFO  ConduitAPITesting:66 - Status_Code500
+2022-01-04 11:33:39 INFO  ConduitAPITesting:73 - *********  Finished TC_004_CreatePost **********
+2022-01-04 11:34:22 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:34:24 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 11:34:24 INFO  ConduitAPITesting:66 - Status_Code200
+2022-01-04 11:34:24 INFO  ConduitAPITesting:73 - *********  Finished TC_004_CreatePost **********
+2022-01-04 11:38:23 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:40:02 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:40:05 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:40:06 INFO  ConduitAPITesting:90 - ********* Status_Code_Validation **********
+2022-01-04 11:40:06 INFO  ConduitAPITesting:92 - Status_Code: 422
+2022-01-04 11:40:06 INFO  ConduitAPITesting:99 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:40:30 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:40:34 INFO  ConduitAPITesting:89 - ********* Status_Code_Validation **********
+2022-01-04 11:40:34 INFO  ConduitAPITesting:91 - Status_Code: 200
+2022-01-04 11:40:34 INFO  ConduitAPITesting:98 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:44:17 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:44:21 INFO  ConduitAPITesting:86 - ********* Status_Code_Validation **********
+2022-01-04 11:44:21 INFO  ConduitAPITesting:88 - Status_Code: 200
+2022-01-04 11:44:21 INFO  ConduitAPITesting:95 - *********  Finished TC_001_CreateUser **********
+2022-01-04 11:44:58 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:45:43 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 11:50:57 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 11:51:01 INFO  ConduitAPITesting:92 - ********* Status_Code_Validation **********
+2022-01-04 11:51:01 INFO  ConduitAPITesting:94 - Status_Code: 200
+2022-01-04 11:51:01 INFO  ConduitAPITesting:101 - *********  Finished TC_001_CreateUser **********
+2022-01-04 12:01:24 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 12:01:27 INFO  ConduitAPITesting:89 - ********* Status_Code_Validation **********
+2022-01-04 12:01:27 INFO  ConduitAPITesting:91 - Status_Code: 200
+2022-01-04 12:01:27 INFO  ConduitAPITesting:98 - *********  Finished TC_001_CreateUser **********
+2022-01-04 12:02:04 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 12:02:05 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 12:02:31 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 12:02:34 INFO  ConduitAPITesting:89 - ********* Status_Code_Validation **********
+2022-01-04 12:02:34 INFO  ConduitAPITesting:91 - Status_Code: 200
+2022-01-04 12:02:34 INFO  ConduitAPITesting:98 - *********  Finished TC_001_CreateUser **********
+2022-01-04 12:02:39 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 12:03:13 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 12:03:17 INFO  ConduitAPITesting:94 - ********* Status_Code_Validation **********
+2022-01-04 12:03:17 INFO  ConduitAPITesting:96 - Status_Code: 200
+2022-01-04 12:03:17 INFO  ConduitAPITesting:103 - *********  Finished TC_001_CreateUser **********
+2022-01-04 15:52:53 INFO  ConduitAPITesting:33 - ********* Started TC_001_CreateUser **********
+2022-01-04 15:52:58 INFO  ConduitAPITesting:95 - ********* Status_Code_Validation **********
+2022-01-04 15:52:58 INFO  ConduitAPITesting:97 - Status_Code: 200
+2022-01-04 15:52:58 INFO  ConduitAPITesting:104 - *********  Finished TC_001_CreateUser **********
+2022-01-04 15:57:00 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 15:58:05 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 15:59:26 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 15:59:29 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 15:59:29 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 15:59:29 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:04:24 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:04:27 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 16:04:27 INFO  ConduitAPITesting:66 - Status_Code200
+2022-01-04 16:04:27 INFO  ConduitAPITesting:73 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:04:34 INFO  ConduitAPITesting:27 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:04:38 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 16:04:38 INFO  ConduitAPITesting:66 - Status_Code422
+2022-01-04 16:04:38 INFO  ConduitAPITesting:73 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:05:17 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:05:21 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 16:05:21 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 16:05:21 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:07:12 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:07:17 INFO  ConduitAPITesting:94 - ********* Status_Code_Validation **********
+2022-01-04 16:07:17 INFO  ConduitAPITesting:96 - Status_Code: 422
+2022-01-04 16:07:17 INFO  ConduitAPITesting:103 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:11:12 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 16:11:16 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 16:11:16 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 16:11:16 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:11:29 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 16:11:32 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 16:11:32 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 16:11:32 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 16:12:18 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:12:22 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 16:12:22 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 16:12:22 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:12:49 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:12:52 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 16:12:52 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 16:12:52 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:16:59 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:17:02 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-04 16:17:02 INFO  ConduitAPITesting:64 - Status_Code422
+2022-01-04 16:17:02 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:17:02 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 16:17:03 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 16:17:03 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 16:17:03 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:17:03 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 16:17:04 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 16:17:04 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 16:17:04 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 16:17:04 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:17:04 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 16:17:04 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 16:17:04 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:17:39 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:17:42 INFO  ConduitAPITesting:62 - ********* Status_Code_Validation **********
+2022-01-04 16:17:42 INFO  ConduitAPITesting:64 - Status_Code422
+2022-01-04 16:17:42 INFO  ConduitAPITesting:71 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:18:42 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 16:18:45 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 16:18:45 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 16:18:45 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:18:45 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 16:18:46 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 16:18:46 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 16:18:46 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 16:18:46 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 16:18:46 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 16:18:46 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 16:18:46 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 16:30:02 INFO  ConduitAPITesting:59 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:30:03 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 16:30:03 INFO  ConduitAPITesting:75 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:30:49 INFO  ConduitAPITesting:59 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:30:50 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 16:30:50 INFO  ConduitAPITesting:75 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:31:29 INFO  ConduitAPITesting:59 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:31:29 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 16:31:29 INFO  ConduitAPITesting:76 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:34:52 INFO  ConduitAPITesting:61 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:34:53 INFO  ConduitAPITesting:70 - ********* Status_Code_Validation **********
+2022-01-04 16:34:53 INFO  ConduitAPITesting:72 - Status_Code422
+2022-01-04 16:34:53 INFO  ConduitAPITesting:79 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:38:03 INFO  ConduitAPITesting:22 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:38:03 INFO  ConduitAPITesting:40 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:39:30 INFO  ConduitAPITesting:22 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:39:31 INFO  ConduitAPITesting:40 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:40:13 INFO  ConduitAPITesting:31 - ********* Status_Code_Validation **********
+2022-01-04 16:40:13 INFO  ConduitAPITesting:33 - Status_Code200
+2022-01-04 16:40:13 INFO  ConduitAPITesting:40 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:41:02 INFO  ConduitAPITesting:22 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:41:03 INFO  ConduitAPITesting:31 - ********* Status_Code_Validation **********
+2022-01-04 16:41:03 INFO  ConduitAPITesting:33 - Status_Code422
+2022-01-04 16:41:03 INFO  ConduitAPITesting:40 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:42:17 INFO  ConduitAPITesting:22 - ********* Started TC_001_CreateUser **********
+2022-01-04 16:42:18 INFO  ConduitAPITesting:31 - ********* Status_Code_Validation **********
+2022-01-04 16:42:18 INFO  ConduitAPITesting:34 - Status_Code422
+2022-01-04 16:42:18 INFO  ConduitAPITesting:41 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:43:03 INFO  ConduitAPITesting:32 - ********* Status_Code_Validation **********
+2022-01-04 16:43:03 INFO  ConduitAPITesting:35 - Status_Code200
+2022-01-04 16:43:03 INFO  ConduitAPITesting:42 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:43:44 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 16:43:44 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 16:43:44 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:46:12 INFO  ConduitAPITesting:29 - ********* Started TC_002_Login **********
+2022-01-04 16:46:13 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 16:46:13 INFO  ConduitAPITesting:69 - Status_Code: 200
+2022-01-04 16:46:13 INFO  ConduitAPITesting:76 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:46:56 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 16:46:57 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 16:46:57 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 16:46:57 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 16:47:33 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 16:47:34 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 16:47:34 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 16:47:34 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 16:47:50 INFO  ConduitAPITesting:29 - ********* Started TC_002_Login **********
+2022-01-04 16:47:50 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 16:47:50 INFO  ConduitAPITesting:69 - Status_Code: 200
+2022-01-04 16:47:51 INFO  ConduitAPITesting:76 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:49:58 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 16:49:58 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 16:49:58 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:50:10 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 16:50:11 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 16:50:11 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 16:50:11 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:51:16 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 16:51:16 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 16:51:16 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:51:24 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 16:51:24 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 16:51:24 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:52:42 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 16:52:43 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 16:52:43 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 16:52:43 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:53:37 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 16:53:37 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:54:39 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 16:54:39 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 16:54:39 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 16:54:48 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 16:54:52 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 16:54:52 INFO  ConduitAPITesting:70 - Status_Code: 403
+2022-01-04 16:54:52 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 16:59:25 INFO  ConduitAPITesting:21 - ********* Status_Code_Validation **********
+2022-01-04 16:59:25 INFO  ConduitAPITesting:39 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:00:03 INFO  ConduitAPITesting:21 - ********* Status_Code_Validation **********
+2022-01-04 17:00:03 INFO  ConduitAPITesting:39 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:01:32 INFO  ConduitAPITesting:21 - ********* Status_Code_Validation **********
+2022-01-04 17:01:32 INFO  ConduitAPITesting:39 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:02:54 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:02:54 INFO  ConduitAPITesting:32 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:03:47 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:03:48 INFO  ConduitAPITesting:32 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:04:45 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:04:45 INFO  ConduitAPITesting:31 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:05:34 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:05:34 INFO  ConduitAPITesting:24 - Status_Code200
+2022-01-04 17:05:34 INFO  ConduitAPITesting:31 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:08:01 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:08:01 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:08:01 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:08:10 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:08:10 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:08:10 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:09:00 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:09:00 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:09:50 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:09:54 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:09:54 INFO  ConduitAPITesting:70 - Status_Code: 403
+2022-01-04 17:09:54 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:09:54 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 17:09:55 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 17:09:55 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 17:09:55 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 17:09:55 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 17:09:56 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 17:09:56 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 17:09:56 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 17:12:53 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:12:57 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:12:57 INFO  ConduitAPITesting:70 - Status_Code: 403
+2022-01-04 17:12:57 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:12:57 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 17:12:58 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 17:12:58 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 17:12:58 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 17:12:58 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 17:12:59 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 17:12:59 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 17:12:59 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 17:13:14 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:13:18 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:13:18 INFO  ConduitAPITesting:70 - Status_Code: 403
+2022-01-04 17:13:18 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:13:18 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 17:13:19 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 17:13:19 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 17:13:19 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 17:13:19 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 17:13:20 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 17:13:20 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 17:13:20 INFO  ConduitAPITesting:74 - *********  Finished TC_004_CreatePost **********
+2022-01-04 17:14:11 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 17:14:15 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 17:14:15 INFO  ConduitAPITesting:66 - Status_Code422
+2022-01-04 17:14:15 INFO  ConduitAPITesting:73 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:15:12 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 17:15:15 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 17:15:15 INFO  ConduitAPITesting:69 - Status_Code422
+2022-01-04 17:15:15 INFO  ConduitAPITesting:76 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:17:57 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 17:18:01 INFO  ConduitAPITesting:86 - ********* Status_Code_Validation **********
+2022-01-04 17:18:01 INFO  ConduitAPITesting:88 - Status_Code: 422
+2022-01-04 17:18:01 INFO  ConduitAPITesting:95 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:19:06 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 17:19:11 INFO  ConduitAPITesting:86 - ********* Status_Code_Validation **********
+2022-01-04 17:19:11 INFO  ConduitAPITesting:88 - Status_Code: 422
+2022-01-04 17:19:11 INFO  ConduitAPITesting:95 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:19:37 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 17:19:41 INFO  ConduitAPITesting:86 - ********* Status_Code_Validation **********
+2022-01-04 17:19:41 INFO  ConduitAPITesting:88 - Status_Code: 422
+2022-01-04 17:19:41 INFO  ConduitAPITesting:95 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:21:52 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 17:21:56 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 17:21:56 INFO  ConduitAPITesting:69 - Status_Code200
+2022-01-04 17:21:56 INFO  ConduitAPITesting:76 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:22:22 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:22:27 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:22:27 INFO  ConduitAPITesting:70 - Status_Code: 403
+2022-01-04 17:22:27 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:24:24 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 17:24:28 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:24:28 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-04 17:24:28 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:25:13 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:25:17 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:25:17 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 17:25:17 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:26:50 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:26:54 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:26:54 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 17:26:54 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:28:06 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:28:10 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:28:10 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 17:28:10 INFO  ConduitAPITesting:77 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:28:36 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:29:40 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:31:26 INFO  ConduitAPITesting:68 - ********* Status_Code_Validation **********
+2022-01-04 17:31:26 INFO  ConduitAPITesting:70 - Status_Code: 200
+2022-01-04 17:32:44 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:32:49 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:32:49 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-04 17:32:49 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:33:18 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:33:22 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:33:22 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-04 17:33:22 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:34:27 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-04 17:34:32 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-04 17:34:32 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-04 17:34:32 INFO  ConduitAPITesting:48 - *********  Finished TC_003_GetUser **********
+2022-01-04 17:40:31 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 17:40:35 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 17:40:35 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 17:40:35 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 17:45:24 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:45:29 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:45:29 INFO  ConduitAPITesting:71 - Status_Code: 200
+2022-01-04 17:45:29 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:45:29 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-04 17:45:30 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-04 17:45:30 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-04 17:45:30 INFO  ConduitAPITesting:48 - *********  Finished TC_003_GetUser **********
+2022-01-04 17:45:30 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 17:45:31 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 17:45:31 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 17:45:31 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 17:46:06 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:46:06 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:46:06 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:46:35 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:46:35 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:46:35 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:47:15 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:47:19 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:47:19 INFO  ConduitAPITesting:71 - Status_Code: 403
+2022-01-04 17:47:19 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:49:16 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:49:16 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:49:16 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:49:28 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:49:32 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:49:32 INFO  ConduitAPITesting:71 - Status_Code: 403
+2022-01-04 17:49:32 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:51:06 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:51:06 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:51:06 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:53:05 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:53:05 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:53:05 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 17:53:16 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 17:53:20 INFO  ConduitAPITesting:69 - ********* Status_Code_Validation **********
+2022-01-04 17:53:20 INFO  ConduitAPITesting:71 - Status_Code: 403
+2022-01-04 17:53:20 INFO  ConduitAPITesting:78 - *********  Finished TC_002_LoginUser **********
+2022-01-04 17:53:55 INFO  ConduitAPITesting:20 - ********* Status_Code_Validation **********
+2022-01-04 17:53:55 INFO  ConduitAPITesting:23 - Status_Code200
+2022-01-04 17:53:55 INFO  ConduitAPITesting:30 - *********  Finished TC_001_CreateUser **********
+2022-01-04 18:18:14 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 18:18:17 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 18:18:17 INFO  ConduitAPITesting:66 - Status_Code200
+2022-01-04 18:19:55 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 18:19:58 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 18:19:58 INFO  ConduitAPITesting:69 - Status_Code: 403
+2022-01-04 18:19:58 INFO  ConduitAPITesting:76 - *********  Finished TC_002_LoginUser **********
+2022-01-04 18:20:12 INFO  ConduitAPITesting:30 - ********* Started TC_002_Login **********
+2022-01-04 18:20:14 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-04 18:20:14 INFO  ConduitAPITesting:69 - Status_Code: 200
+2022-01-04 18:20:14 INFO  ConduitAPITesting:76 - *********  Finished TC_002_LoginUser **********
+2022-01-04 18:20:57 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 18:20:59 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 18:20:59 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 18:20:59 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 18:24:20 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 18:24:24 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 18:24:24 INFO  ConduitAPITesting:76 - Status_Code: 200
+2022-01-04 18:24:24 INFO  ConduitAPITesting:83 - *********  Finished TC_002_LoginUser **********
+2022-01-04 18:26:20 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 18:26:23 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 18:26:23 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 18:26:23 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 18:27:38 INFO  ConduitAPITesting:31 - ********* Started TC_001_CreateUser **********
+2022-01-04 18:27:41 INFO  ConduitAPITesting:64 - ********* Status_Code_Validation **********
+2022-01-04 18:27:41 INFO  ConduitAPITesting:66 - Status_Code422
+2022-01-04 18:27:41 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 18:27:42 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 18:27:42 INFO  ConduitAPITesting:76 - Status_Code: 200
+2022-01-04 18:27:42 INFO  ConduitAPITesting:83 - *********  Finished TC_002_LoginUser **********
+2022-01-04 18:27:42 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 18:27:43 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 18:27:43 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 18:27:43 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 18:27:43 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 18:27:43 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 18:27:43 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 18:27:43 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 18:29:49 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 18:29:53 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 18:29:53 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 18:29:53 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 18:29:54 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 18:29:54 INFO  ConduitAPITesting:76 - Status_Code: 200
+2022-01-04 18:29:54 INFO  ConduitAPITesting:83 - *********  Finished TC_002_LoginUser **********
+2022-01-04 18:29:54 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 18:29:55 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 18:29:55 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 18:29:55 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 18:29:55 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 18:29:55 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 18:29:55 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 18:29:55 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 18:31:57 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 18:32:00 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 18:32:00 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 18:32:00 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 18:32:01 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 18:32:01 INFO  ConduitAPITesting:76 - Status_Code: 200
+2022-01-04 18:32:01 INFO  ConduitAPITesting:83 - *********  Finished TC_002_LoginUser **********
+2022-01-04 18:32:01 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 18:32:02 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 18:32:02 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 18:32:02 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 18:32:02 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 18:32:02 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 18:32:02 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 18:32:02 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 19:55:31 INFO  ConduitAPITesting:32 - ********* Started TC_001_CreateUser **********
+2022-01-04 19:55:52 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 19:55:52 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 19:55:52 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 19:55:55 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 19:55:55 INFO  ConduitAPITesting:76 - Status_Code: 200
+2022-01-04 19:55:55 INFO  ConduitAPITesting:83 - *********  Finished TC_002_LoginUser **********
+2022-01-04 19:55:55 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 19:55:56 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 19:55:56 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 19:55:56 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 19:55:56 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 19:55:56 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 19:55:56 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 19:55:56 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 20:02:07 INFO  ConduitAPITesting:27 - ********* Started TC_001_CreateUser **********
+2022-01-04 20:02:11 INFO  ConduitAPITesting:60 - ********* Status_Code_Validation **********
+2022-01-04 20:02:11 INFO  ConduitAPITesting:62 - Status_Code200
+2022-01-04 20:03:57 INFO  ConduitAPITesting:28 - ********* Started TC_001_CreateUser **********
+2022-01-04 20:04:01 INFO  ConduitAPITesting:61 - ********* Status_Code_Validation **********
+2022-01-04 20:04:01 INFO  ConduitAPITesting:63 - Status_Code200
+2022-01-04 20:05:44 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-04 20:05:48 INFO  ConduitAPITesting:63 - ********* Status_Code_Validation **********
+2022-01-04 20:05:48 INFO  ConduitAPITesting:65 - Status_Code200
+2022-01-04 20:06:33 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-04 20:06:37 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 20:06:37 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 20:06:52 INFO  ConduitAPITesting:30 - ********* Started TC_001_CreateUser **********
+2022-01-04 20:06:55 INFO  ConduitAPITesting:65 - ********* Status_Code_Validation **********
+2022-01-04 20:06:55 INFO  ConduitAPITesting:67 - Status_Code200
+2022-01-04 20:08:28 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 20:08:32 INFO  ConduitAPITesting:74 - ********* Status_Code_Validation **********
+2022-01-04 20:08:32 INFO  ConduitAPITesting:76 - Status_Code: 403
+2022-01-04 20:08:32 INFO  ConduitAPITesting:83 - *********  Finished TC_002_LoginUser **********
+2022-01-04 20:09:07 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 20:09:12 INFO  ConduitAPITesting:77 - ********* Status_Code_Validation **********
+2022-01-04 20:09:12 INFO  ConduitAPITesting:79 - Status_Code: 403
+2022-01-04 20:09:12 INFO  ConduitAPITesting:86 - *********  Finished TC_002_LoginUser **********
+2022-01-04 20:16:20 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 20:16:25 INFO  ConduitAPITesting:77 - ********* Status_Code_Validation **********
+2022-01-04 20:16:25 INFO  ConduitAPITesting:79 - Status_Code: 403
+2022-01-04 20:16:25 INFO  ConduitAPITesting:86 - *********  Finished TC_002_LoginUser **********
+2022-01-04 20:23:55 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 20:23:59 INFO  ConduitAPITesting:77 - ********* Status_Code_Validation **********
+2022-01-04 20:23:59 INFO  ConduitAPITesting:79 - Status_Code: 200
+2022-01-04 20:23:59 INFO  ConduitAPITesting:86 - *********  Finished TC_002_LoginUser **********
+2022-01-04 20:25:14 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-04 20:25:18 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-04 20:25:18 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-04 20:25:18 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-04 20:25:59 INFO  ConduitAPITesting:28 - ********* Started TC_004_CreatePost **********
+2022-01-04 20:26:03 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation **********
+2022-01-04 20:26:03 INFO  ConduitAPITesting:68 - Status_Code200
+2022-01-04 20:26:03 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-04 20:26:18 INFO  ConduitAPITesting:31 - ********* Started TC_002_Login **********
+2022-01-04 20:26:23 INFO  ConduitAPITesting:77 - ********* Status_Code_Validation **********
+2022-01-04 20:26:23 INFO  ConduitAPITesting:79 - Status_Code: 200
+2022-01-04 20:26:23 INFO  ConduitAPITesting:86 - *********  Finished TC_002_LoginUser **********
+2022-01-05 17:24:58 INFO  ConduitAPITesting:27 - ********* Started TC_003_GetUser **********
+2022-01-05 17:25:01 INFO  ConduitAPITesting:38 - ********* Status_Code_Validation **********
+2022-01-05 17:25:01 INFO  ConduitAPITesting:40 - Status_Code200
+2022-01-05 17:25:01 INFO  ConduitAPITesting:47 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:28:30 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:28:32 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-05 17:28:32 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-05 17:28:32 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-05 17:28:32 INFO  ConduitAPITesting:54 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:28:54 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:28:56 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-05 17:28:56 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-05 17:28:56 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-05 17:28:56 INFO  ConduitAPITesting:54 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:29:45 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:29:46 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-05 17:29:47 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-05 17:29:47 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-05 17:29:47 INFO  ConduitAPITesting:54 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:31:24 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:31:25 INFO  ConduitAPITesting:29 - ********* Started TC_004_CreatePost **********
+2022-01-05 17:31:26 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-05 17:31:26 INFO  ConduitAPITesting:69 - Status_Code200
+2022-01-05 17:31:26 INFO  ConduitAPITesting:76 - *********  Finished TC_004_CreatePost **********
+2022-01-05 17:32:32 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-05 17:32:48 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:32:50 INFO  ConduitAPITesting:60 - ********* Status_Code_Validation **********
+2022-01-05 17:37:03 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:37:05 INFO  ConduitAPITesting:60 - ********* Status_Code_Validation **********
+2022-01-05 17:37:05 INFO  ConduitAPITesting:62 - Status_Code200
+2022-01-05 17:42:16 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:42:18 INFO  ConduitAPITesting:60 - ********* Status_Code_Validation **********
+2022-01-05 17:42:18 INFO  ConduitAPITesting:62 - Status_Code200
+2022-01-05 17:42:57 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:42:59 INFO  ConduitAPITesting:78 - ********* Status_Code_Validation **********
+2022-01-05 17:42:59 INFO  ConduitAPITesting:80 - Status_Code: 200
+2022-01-05 17:42:59 INFO  ConduitAPITesting:87 - *********  Finished TC_002_LoginUser **********
+2022-01-05 17:43:52 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:43:54 INFO  ConduitAPITesting:29 - ********* Started TC_004_CreatePost **********
+2022-01-05 17:43:54 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-05 17:43:54 INFO  ConduitAPITesting:69 - Status_Code200
+2022-01-05 17:43:54 INFO  ConduitAPITesting:76 - *********  Finished TC_004_CreatePost **********
+2022-01-05 17:44:41 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:44:42 INFO  ConduitAPITesting:60 - ********* Status_Code_Validation **********
+2022-01-05 17:44:42 INFO  ConduitAPITesting:62 - Status_Code200
+2022-01-05 17:44:42 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:44:43 INFO  ConduitAPITesting:78 - ********* Status_Code_Validation **********
+2022-01-05 17:44:43 INFO  ConduitAPITesting:80 - Status_Code: 200
+2022-01-05 17:44:43 INFO  ConduitAPITesting:87 - *********  Finished TC_002_LoginUser **********
+2022-01-05 17:44:43 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:44:44 INFO  ConduitAPITesting:28 - ********* Started TC_003_GetUser **********
+2022-01-05 17:44:45 INFO  ConduitAPITesting:39 - ********* Status_Code_Validation **********
+2022-01-05 17:44:45 INFO  ConduitAPITesting:41 - Status_Code200
+2022-01-05 17:44:45 INFO  ConduitAPITesting:54 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:44:45 INFO  ConduitAPITesting:74 - ********* Started TC_002_Login **********
+2022-01-05 17:44:46 INFO  ConduitAPITesting:29 - ********* Started TC_004_CreatePost **********
+2022-01-05 17:44:46 INFO  ConduitAPITesting:67 - ********* Status_Code_Validation **********
+2022-01-05 17:44:46 INFO  ConduitAPITesting:69 - Status_Code200
+2022-01-05 17:44:46 INFO  ConduitAPITesting:76 - *********  Finished TC_004_CreatePost **********
+2022-01-05 17:57:15 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:57:17 INFO  ConduitAPITesting:13 - ************* Created User Details *************
+2022-01-05 17:57:17 INFO  ConduitAPITesting:17 - ********* Status_Code_Validation for CreateUser **********
+2022-01-05 17:57:17 INFO  ConduitAPITesting:19 - CreateUser Status_Code: 200
+2022-01-05 17:58:06 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:58:07 INFO  ConduitAPITesting:13 - ************* Created User Details *************
+2022-01-05 17:58:07 INFO  ConduitAPITesting:17 - ********* Status_Code_Validation for CreateUser **********
+2022-01-05 17:58:07 INFO  ConduitAPITesting:19 - CreateUser Status_Code: 422
+2022-01-05 17:58:07 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:58:09 INFO  ConduitAPITesting:15 - ********* Status_Code_Validation for Login **********
+2022-01-05 17:58:09 INFO  ConduitAPITesting:17 - Login Status_Code: 403
+2022-01-05 17:58:09 INFO  ConduitAPITesting:24 - *********  Finished TC_002_LoginUser **********
+2022-01-05 17:58:09 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:58:11 INFO  ConduitAPITesting:33 - ********* Status_Code_Validation for GetUser **********
+2022-01-05 17:58:11 INFO  ConduitAPITesting:35 - GetUser Status_Code: 200
+2022-01-05 17:58:11 INFO  ConduitAPITesting:43 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:58:11 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:58:15 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation for CreatePost**********
+2022-01-05 17:58:15 INFO  ConduitAPITesting:68 - CreatePost Status_Code: 500
+2022-01-05 17:58:15 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********
+2022-01-05 17:59:06 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:59:08 INFO  ConduitAPITesting:13 - ************* Created User Details *************
+2022-01-05 17:59:08 INFO  ConduitAPITesting:17 - ********* Status_Code_Validation for CreateUser **********
+2022-01-05 17:59:08 INFO  ConduitAPITesting:19 - CreateUser Status_Code: 200
+2022-01-05 17:59:08 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:59:09 INFO  ConduitAPITesting:15 - ********* Status_Code_Validation for Login **********
+2022-01-05 17:59:09 INFO  ConduitAPITesting:17 - Login Status_Code: 200
+2022-01-05 17:59:09 INFO  ConduitAPITesting:24 - *********  Finished TC_002_LoginUser **********
+2022-01-05 17:59:09 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:59:12 INFO  ConduitAPITesting:33 - ********* Status_Code_Validation for GetUser **********
+2022-01-05 17:59:12 INFO  ConduitAPITesting:35 - GetUser Status_Code: 200
+2022-01-05 17:59:12 INFO  ConduitAPITesting:43 - *********  Finished TC_003_GetUser **********
+2022-01-05 17:59:12 INFO  ConduitAPITesting:70 - ********* User Logging In **********
+2022-01-05 17:59:14 INFO  ConduitAPITesting:66 - ********* Status_Code_Validation for CreatePost**********
+2022-01-05 17:59:14 INFO  ConduitAPITesting:68 - CreatePost Status_Code: 200
+2022-01-05 17:59:14 INFO  ConduitAPITesting:75 - *********  Finished TC_004_CreatePost **********

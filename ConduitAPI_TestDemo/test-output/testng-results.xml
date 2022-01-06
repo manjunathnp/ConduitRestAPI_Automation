@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="22" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T15:47:24 IST" name="ConduitRestAPISuite" finished-at="2022-01-06T15:47:29 IST" duration-ms="5814">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T15:47:24 IST" name="ConduitRestAPITest" finished-at="2022-01-06T15:47:29 IST" duration-ms="5814">
+      <class name="com.ConduitAPI.tests.TC_003_GetUser">
+        <test-method is-config="true" signature="userLogin()[pri:0, instance:com.ConduitAPI.tests.TC_003_GetUser@38c6f217]" started-at="2022-01-06T15:47:26 IST" name="userLogin" finished-at="2022-01-06T15:47:26 IST" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="getUser()[pri:0, instance:com.ConduitAPI.tests.TC_003_GetUser@38c6f217]" started-at="2022-01-06T15:47:26 IST" name="getUser" finished-at="2022-01-06T15:47:27 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="getUser_checkStatusCode()[pri:0, instance:com.ConduitAPI.tests.TC_003_GetUser@38c6f217]" started-at="2022-01-06T15:47:27 IST" name="getUser_checkStatusCode" finished-at="2022-01-06T15:47:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser_checkStatusCode -->
+        <test-method signature="getUser_checkResponseTime()[pri:2, instance:com.ConduitAPI.tests.TC_003_GetUser@38c6f217]" started-at="2022-01-06T15:47:27 IST" name="getUser_checkResponseTime" finished-at="2022-01-06T15:47:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser_checkResponseTime -->
+      </class> <!-- com.ConduitAPI.tests.TC_003_GetUser -->
+      <class name="com.ConduitAPI.tests.TC_005_GetPost">
+        <test-method is-config="true" signature="userLogin()[pri:0, instance:com.ConduitAPI.tests.TC_005_GetPost@79e2c065]" started-at="2022-01-06T15:47:28 IST" name="userLogin" finished-at="2022-01-06T15:47:29 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="getUser()[pri:0, instance:com.ConduitAPI.tests.TC_005_GetPost@79e2c065]" started-at="2022-01-06T15:47:29 IST" name="getUser" finished-at="2022-01-06T15:47:29 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="getPost_checkStatusCode()[pri:0, instance:com.ConduitAPI.tests.TC_005_GetPost@79e2c065]" started-at="2022-01-06T15:47:29 IST" name="getPost_checkStatusCode" finished-at="2022-01-06T15:47:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPost_checkStatusCode -->
+        <test-method signature="getPost_checkResponseTime()[pri:2, instance:com.ConduitAPI.tests.TC_005_GetPost@79e2c065]" started-at="2022-01-06T15:47:29 IST" name="getPost_checkResponseTime" finished-at="2022-01-06T15:47:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPost_checkResponseTime -->
+      </class> <!-- com.ConduitAPI.tests.TC_005_GetPost -->
+      <class name="com.ConduitAPI.tests.TC_004_CreatePost">
+        <test-method is-config="true" signature="userLogin()[pri:0, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:27 IST" name="userLogin" finished-at="2022-01-06T15:47:28 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="createPost()[pri:0, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:28 IST" name="createPost" finished-at="2022-01-06T15:47:28 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost -->
+        <test-method signature="createPost_checkStatusCode()[pri:1, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:28 IST" name="createPost_checkStatusCode" finished-at="2022-01-06T15:47:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost_checkStatusCode -->
+        <test-method signature="createPost_checkResponseTime()[pri:2, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:28 IST" name="createPost_checkResponseTime" finished-at="2022-01-06T15:47:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost_checkResponseTime -->
+        <test-method signature="createPost_checkResponseTitle()[pri:3, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:28 IST" name="createPost_checkResponseTitle" finished-at="2022-01-06T15:47:28 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost_checkResponseTitle -->
+        <test-method signature="createPost_checkResponseDescription()[pri:4, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:28 IST" name="createPost_checkResponseDescription" finished-at="2022-01-06T15:47:28 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost_checkResponseDescription -->
+        <test-method signature="createPost_checkResponseBody()[pri:5, instance:com.ConduitAPI.tests.TC_004_CreatePost@478190fc]" started-at="2022-01-06T15:47:28 IST" name="createPost_checkResponseBody" finished-at="2022-01-06T15:47:28 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost_checkResponseBody -->
+      </class> <!-- com.ConduitAPI.tests.TC_004_CreatePost -->
+      <class name="com.ConduitAPI.tests.TC_001_CreateUser">
+        <test-method is-config="true" signature="createUser()[pri:0, instance:com.ConduitAPI.tests.TC_001_CreateUser@9f116cc]" started-at="2022-01-06T15:47:21 IST" name="createUser" finished-at="2022-01-06T15:47:24 IST" duration-ms="2735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method is-config="true" signature="userLogin()[pri:0, instance:com.ConduitAPI.tests.TC_001_CreateUser@9f116cc]" started-at="2022-01-06T15:47:24 IST" name="userLogin" finished-at="2022-01-06T15:47:25 IST" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method signature="createUser_checkStatusCode()[pri:1, instance:com.ConduitAPI.tests.TC_001_CreateUser@9f116cc]" started-at="2022-01-06T15:47:25 IST" name="createUser_checkStatusCode" finished-at="2022-01-06T15:47:25 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser_checkStatusCode -->
+        <test-method signature="createUser_checkResponseTime()[pri:2, instance:com.ConduitAPI.tests.TC_001_CreateUser@9f116cc]" started-at="2022-01-06T15:47:25 IST" name="createUser_checkResponseTime" finished-at="2022-01-06T15:47:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser_checkResponseTime -->
+        <test-method signature="createUser_checkResponseUsername()[pri:3, instance:com.ConduitAPI.tests.TC_001_CreateUser@9f116cc]" started-at="2022-01-06T15:47:25 IST" name="createUser_checkResponseUsername" finished-at="2022-01-06T15:47:25 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser_checkResponseUsername -->
+        <test-method signature="createUser_checkResponseEmail()[pri:4, instance:com.ConduitAPI.tests.TC_001_CreateUser@9f116cc]" started-at="2022-01-06T15:47:25 IST" name="createUser_checkResponseEmail" finished-at="2022-01-06T15:47:25 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser_checkResponseEmail -->
+      </class> <!-- com.ConduitAPI.tests.TC_001_CreateUser -->
+      <class name="com.ConduitAPI.tests.TC_002_Login">
+        <test-method is-config="true" signature="userLogin()[pri:0, instance:com.ConduitAPI.tests.TC_002_Login@52bf72b5]" started-at="2022-01-06T15:47:25 IST" name="userLogin" finished-at="2022-01-06T15:47:26 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method signature="LoginUser_checkStatusCode()[pri:1, instance:com.ConduitAPI.tests.TC_002_Login@52bf72b5]" started-at="2022-01-06T15:47:26 IST" name="LoginUser_checkStatusCode" finished-at="2022-01-06T15:47:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser_checkStatusCode -->
+        <test-method signature="LoginUser_checkResponseTime()[pri:2, instance:com.ConduitAPI.tests.TC_002_Login@52bf72b5]" started-at="2022-01-06T15:47:26 IST" name="LoginUser_checkResponseTime" finished-at="2022-01-06T15:47:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser_checkResponseTime -->
+        <test-method signature="LoginUser_checkResponseUsername()[pri:3, instance:com.ConduitAPI.tests.TC_002_Login@52bf72b5]" started-at="2022-01-06T15:47:26 IST" name="LoginUser_checkResponseUsername" finished-at="2022-01-06T15:47:26 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser_checkResponseUsername -->
+        <test-method signature="LoginUser_checkResponseEmail()[pri:4, instance:com.ConduitAPI.tests.TC_002_Login@52bf72b5]" started-at="2022-01-06T15:47:26 IST" name="LoginUser_checkResponseEmail" finished-at="2022-01-06T15:47:26 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser_checkResponseEmail -->
+      </class> <!-- com.ConduitAPI.tests.TC_002_Login -->
+    </test> <!-- ConduitRestAPITest -->
+  </suite> <!-- ConduitRestAPISuite -->
+</testng-results>

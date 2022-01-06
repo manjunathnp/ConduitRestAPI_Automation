@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="ConduitRestAPISuite">
+	
+	<test name="ConduitRestAPITest">
+		<classes>
+			<class name="com.ConduitAPI.tests.TC_001_CreateUser" />
+			<class name="com.ConduitAPI.tests.TC_002_Login" />
+			<class name="com.ConduitAPI.tests.TC_003_GetUser" />
+			<class name="com.ConduitAPI.tests.TC_004_CreatePost" />
+			<class name="com.ConduitAPI.tests.TC_005_GetPost" />
+		</classes>
+	</test>
+</suite> 
+

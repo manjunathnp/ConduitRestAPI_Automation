@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ConduitRestAPISuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ConduitRestAPITest(failed)">
+    <classes>
+      <class name="com.ConduitAPI.tests.TC_005_GetPost">
+        <methods>
+          <include name="createPost"/>
+          <include name="getUser"/>
+          <include name="createPost_checkResponseDescription"/>
+          <include name="createPost_checkResponseTitle"/>
+          <include name="createUser"/>
+          <include name="createPost_checkStatusCode"/>
+          <include name="userLogin"/>
+          <include name="createPost_checkResponseBody"/>
+        </methods>
+      </class> <!-- com.ConduitAPI.tests.TC_005_GetPost -->
+    </classes>
+  </test> <!-- ConduitRestAPITest(failed) -->
+</suite> <!-- Failed suite [ConduitRestAPISuite] -->
