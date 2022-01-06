@@ -1,0 +1,300 @@
+{
+	"info": {
+		"_postman_id": "c8bf500c-baf5-44e9-8c06-f9e6af77829b",
+		"name": "Conduit_APITesting",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CreateUser",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var responseJSON = JSON.parse(responseBody);\r",
+							"\r",
+							"pm.environment.set(\"testEmail\", responseJSON.user.email);\r",
+							"pm.environment.set(\"testUsername\", responseJSON.user.username);\r",
+							"pm.environment.set(\"testToken\", responseJSON.user.token);\r",
+							"\r",
+							"// Test to validate Status Code\r",
+							"pm.test(\"Status code Validation - 200 OK\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"// Test to validate Response Time\r",
+							"pm.test(\"Response time Validation - Less than 2000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
+							"});\r",
+							"\r",
+							"// Validate Response Body \r",
+							"pm.test(\"Response Body Validation - Username\", function(){\r",
+							"    pm.expect(responseJSON.user.username).to.eql(pm.environment.get(\"testUsername\"));\r",
+							"});\r",
+							"\r",
+							"\r",
+							"pm.test(\"Response Body Validation - Email\", function(){\r",
+							"    pm.expect(responseJSON.user.email).to.eql(pm.environment.get(\"testEmail\"));\r",
+							"});\r",
+							"\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"user\":{\r\n    \"username\": \"{{$randomUserName}}\",\r\n    \"email\": \"{{$randomEmail}}\",\r\n    \"password\": \"{{testPassword}}\"\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASE_URI}}/users",
+					"host": [
+						"{{BASE_URI}}"
+					],
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "LoginTest",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var responseJSON = JSON.parse(responseBody);\r",
+							"\r",
+							"// Test to validate Status Code\r",
+							"pm.test(\"Status code Validation - 200 OK\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"// Test to validate Response Time\r",
+							"pm.test(\"Response time Validation - Less than 2000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
+							"});\r",
+							"\r",
+							"// Validate Response Body \r",
+							"pm.test(\"Response Body Validation - Username\", function(){\r",
+							"    pm.expect(responseJSON.user.username).to.eql(pm.environment.get(\"testUsername\"));\r",
+							"});\r",
+							"\r",
+							"\r",
+							"pm.test(\"Response Body Validation - Email\", function(){\r",
+							"    pm.expect(responseJSON.user.email).to.eql(pm.environment.get(\"testEmail\"));\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"user\": {\r\n    \"email\": \"{{testEmail}}\",\r\n    \"password\": \"{{testPassword}}\",\r\n    \"username\": \"{{testUsername}}\"\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASE_URI}}/users/login",
+					"host": [
+						"{{BASE_URI}}"
+					],
+					"path": [
+						"users",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetUser",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var responseJSON = JSON.parse(responseBody);\r",
+							"\r",
+							"// Test to validate Status Code\r",
+							"pm.test(\"Status code Validation - 200 OK\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"// Test to validate Response Time\r",
+							"pm.test(\"Response time Validation - Less than 2000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
+							"});\r",
+							"\r",
+							"// Validate Response Body \r",
+							"pm.test(\"Response Body Validation - Username\", function(){\r",
+							"    pm.expect(responseJSON.profile.username).to.eql(pm.environment.get(\"testUsername\"));\r",
+							"});\r",
+							"\r",
+							"\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{BASE_URI}}/profiles/{{testUsername}}",
+					"host": [
+						"{{BASE_URI}}"
+					],
+					"path": [
+						"profiles",
+						"{{testUsername}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateArticle",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var responseJSON = JSON.parse(responseBody);\r",
+							"pm.environment.set(\"testSlug\", responseJSON.article.slug);\r",
+							"\r",
+							"// Test to validate Status Code\r",
+							"pm.test(\"Status code Validation - 200 OK\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"// Test to validate Response Time\r",
+							"pm.test(\"Response time Validation - Less than 2000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
+							"});\r",
+							"\r",
+							"\r",
+							"// Validate Response Body - Title\r",
+							"pm.test(\"Response Body Validation - Title\", function(){\r",
+							"    pm.expect(responseJSON.article.title).to.eql(\"Testing API by \"+pm.environment.get(\"testUsername\"));\r",
+							"});\r",
+							"\r",
+							"// Validate Response Body - Description\r",
+							"pm.test(\"Response Body Validation - Description\", function(){\r",
+							"    pm.expect(responseJSON.article.description).to.eql(\"API Testing authhored by \"+pm.environment.get(\"testUsername\"));\r",
+							"});\r",
+							"\r",
+							"// Validate Response Body - body\r",
+							"pm.test(\"Response Body Validation - body\", function(){\r",
+							"    pm.expect(responseJSON.article.body).to.eql(\"Application Programming Interface Testing by \"+pm.environment.get(\"testUsername\"));\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Transfer-Encoding",
+						"value": "application/json",
+						"type": "default"
+					},
+					{
+						"key": "Authorization",
+						"value": "Token {{testToken}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"article\": {\r\n    \"title\": \"Testing API by {{testUsername}}\",\r\n    \"description\": \"API Testing authhored by {{testUsername}}\",\r\n    \"body\": \"Application Programming Interface Testing by {{testUsername}}\",\r\n    \"tagList\": [\"RESTApi\", \"API\", \"Testing\", \"{{testUsername}}\"]\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASE_URI}}/articles",
+					"host": [
+						"{{BASE_URI}}"
+					],
+					"path": [
+						"articles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetArticle",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var responseJSON = JSON.parse(responseBody);\r",
+							"\r",
+							"pm.test(\"Status code Validation\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Response time Validation - Less than 2000ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(2000);\r",
+							"});\r",
+							"\r",
+							"// Validate Response Body \r",
+							"pm.test(\"Response Body Validation - Title\", function(){\r",
+							"    pm.expect(responseJSON.article.title).to.eql(\"Testing API by \"+pm.environment.get(\"testUsername\"));\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{BASE_URI}}/articles/{{testSlug}}",
+					"host": [
+						"{{BASE_URI}}"
+					],
+					"path": [
+						"articles",
+						"{{testSlug}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
